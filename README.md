@@ -1,13 +1,12 @@
 
-
 # Buscaminas en Python
+
+Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame para la interfaz gráfica.
 
 ## Autores
 
-Luis Enrique Sandoval
-Andres David Nazarith
-
-Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame para la interfaz gráfica.
+- Luis Enrique Sandoval
+- Andres David Nazarith
 
 ## Instalación
 
