@@ -29,4 +29,3 @@ python main.py
 - El número en una celda revelada indica cuántas minas hay en las celdas adyacentes.
 - Gana el juego cuando todas las celdas seguras han sido reveladas y todas las minas han sido marcadas.
 
-```
