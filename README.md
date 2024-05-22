@@ -1,5 +1,5 @@
 
-```markdown
+```
 # Buscaminas en Python
 
 Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame para la interfaz gráfica.
