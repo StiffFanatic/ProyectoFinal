@@ -1,5 +1,3 @@
-# bienvenida.py
-
 import tkinter as tk
 from entrada import Entrada
 
