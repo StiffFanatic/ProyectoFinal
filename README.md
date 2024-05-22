@@ -1,5 +1,5 @@
 
-```
+
 # Buscaminas en Python
 
 Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame para la interfaz gráfica.
@@ -29,7 +29,4 @@ python main.py
 - El número en una celda revelada indica cuántas minas hay en las celdas adyacentes.
 - Gana el juego cuando todas las celdas seguras han sido reveladas y todas las minas han sido marcadas.
 
-
 ```
-
-Este archivo `README.md` proporciona información básica sobre cómo instalar, ejecutar y jugar al Buscaminas en Python, así como instrucciones para contribuir al proyecto y la información de la licencia.
