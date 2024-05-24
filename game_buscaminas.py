@@ -1,5 +1,3 @@
-# juego_buscaminas.py
-
 import pygame
 import tkinter as tk
 from tkinter import messagebox
